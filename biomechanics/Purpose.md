@@ -1,1 +1,1 @@
-Creation of AI-based medical sensors for rooms occupied by single individuals—including sensors for those exercising within the room—and a complete door unit for a separate apartment.
+Develop medical sensors that can be applied to the track surface, as well as more vigilant lane-encroachment sensors.
